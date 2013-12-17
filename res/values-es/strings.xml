@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <string name="app_name">SlimCenter</string>
     <string name="menu_settings">Ajustes</string>
     <string name="device_title">Dispositivo</string>
     <string name="device_name_title">Nombre:</string>
@@ -13,9 +12,9 @@
     <string name="device_info_title">Información del dispositivo</string>
     <string name="up_to_date_title">Su sistema está actualizado</string>
     <string name="no_data_title">No existe ninguna conexión de datos disponible</string>
-    <string name="error_reading_title">No se pueden leer las propiedades de SlimOTA</string>
+    <string name="error_reading_title">No se pueden leer las propiedades de GerpOTA</string>
     <string name="update_file_title">Actualizar:</string>
-    <string name="settings_title">Configuración de SlimOTA</string>
+    <string name="settings_title">Configuración de GerpOTA</string>
     <string name="about_title">Acerca de</string>
     <string name="update_interval_title">Intervalo de comprobación de actualización automática</string>
     <string name="update_interval_summary">Establecer intervalo de comprobaciones de actualización automática</string>
@@ -31,24 +30,24 @@
     <string name="short_cut_release_title">Relacionado con la ROM</string>
     <string name="short_cut_changelog_title">Registro de cambios</string>
     <string name="short_cut_changelog_summary_update_available">¡¡¡Importante!!! Lea el registro de cambios y las instrucciones de instalación detenidamente</string>
-    <string name="short_cut_download_summary_update_available">Nueva actualización de la ROM SlimBean disponible. ¡Descargar aquí!</string>
+    <string name="short_cut_download_summary_update_available">Nueva actualización de GERP disponible. ¡Descargar aquí!</string>
     <string name="short_cut_changelog_summary">Mostrar registro de cambios e instrucciones de instalación</string>
     <string name="short_cut_additional_title">Adicional</string>
     <string name="short_cut_faq_title">Preguntas más frecuentes</string>
-    <string name="short_cut_faq_summary">Mostrar preguntas más frecuentes de Slim</string>
+    <string name="short_cut_faq_summary">Mostrar preguntas más frecuentes de GERP</string>
     <string name="short_cut_news_title">Noticias</string>
-    <string name="short_cut_news_summary">Leer sobre las últimas novedades Slim</string>
-    <string name="short_cut_download_title">Descargar SlimBean</string>
-    <string name="short_cut_download_uptodate_summary">Descargar SlimBean ROM</string>
+    <string name="short_cut_news_summary">Leer sobre las últimas novedades GERP</string>
+    <string name="short_cut_download_title">Descargar GERP</string>
+    <string name="short_cut_download_uptodate_summary">Descargar GERP ROM</string>
     <string name="short_cut_download_gapps_title">Descargar gapps</string>
-    <string name="short_cut_download_gapps_summary">Descargar paquetes de adicionales de SlimBean</string>
-    <string name="download_url">http://otaslim.slimroms.net/download.htm</string>
-    <string name="notification_message">Actualización de la ROM de SlimBean disponible</string>
-    <string name="about_slim_ota">SlimOTA te mantiene siempre actualizada\n tu rom y gapps</string>
-    <string name="about_version">SlimCenter 1.1</string>
+    <string name="short_cut_download_gapps_summary">Descargar paquetes de adicionales de GERP</string>
+    <string name="download_url">http://butter.uni.me/download.htm</string>
+    <string name="notification_message">Actualización de GERP ROM disponible</string>
+    <string name="about_slim_ota">GerpOTA te mantiene siempre actualizada\n tu rom y gapps</string>
+    <string name="about_version">GerpCenter 2.0</string>
     <string name="about_contact_text">Díganos lo que piensa\no infórmenos sobre cualquier error o problema</string>
     <string name="about_license">Licencias de código abierto</string>
-    <string name="about_license_text">SlimCenter app:</string>
+    <string name="about_license_text">GerpCenter app:</string>
     <string name="listsystem">lista</string>
     <string name="caution">¡Atención!</string>
     <string name="sizer_message_startup">Esta herramienta permite eliminar aplicaciones de sistema. Utilice con precaución y elimine solamente aplicaciones sabiendo que son seguras para eliminarse.</string>
@@ -63,17 +62,17 @@
     <string name="sizer_message_filesuccess">Perfil creado.</string>
     <string name="sizer_message_filefail">Error al crear el perfil.</string>
     <string name="sizer_message_noselect">Nada seleccionado.</string>
-    <string name="ota_title">SlimOTA</string>
-    <string name="aboutslim_title">SlimRoms</string>
+    <string name="ota_title">GerpOTA</string>
+    <string name="aboutslim_title">GERP ROM</string>
     <string name="devs">Desarrollador</string>
-    <string name="slim_website_title">Sitio web de Slim</string>
-    <string name="slim_website_summary">www.slimroms.net\nEncuentra las últimas noticias sobre Slim aquí</string>
-    <string name="slim_irc_title">SlimIRC</string>
-    <string name="slim_irc_summary">¡Entra en nuestro canal de IRC!\nChatea con el equipo de Slim y con otros usuarios</string>
+    <string name="slim_website_title">Sitio web de GERP</string>
+    <string name="slim_website_summary">www.butter.uni.me\nEncuentra las últimas noticias sobre GERP aquí</string>
+    <string name="slim_irc_title">GerpIRC</string>
+    <string name="slim_irc_summary">¡Entra en nuestro canal de IRC!\nChatea con el equipo de GERP y con otros usuarios</string>
     <string name="slim_donate_title">Donar</string>
-    <string name="slim_donate_summary">Dona al equipo de SlimRoms</string>
-    <string name="slim_source_title">Código fuente de Slim</string>
-    <string name="slim_source_summary">SlimRoms es completamente de código abierto.\nCódigo fuente en github.com/SlimRoms</string>
-    <string name="no_irc">SlimIRC App no encontrada.</string>
-    <string name="center_summary"><b>SlimCenter</b> proporciona herramientas e información para ayudarte a mejorar tu experiencia con SlimRoms. Puedes actualizar automáticamente a la versión más reciente de nuestra ROM con <b>SlimOTA</b> y eliminar aplicaciones no deseadas del sistema con <b>SlimSizer</b></string>
+    <string name="slim_donate_summary">Dona al equipo de GERP ROM</string>
+    <string name="slim_source_title">Código fuente de GERP</string>
+    <string name="slim_source_summary">GERP ROM es completamente de código abierto.\nCódigo fuente en github.com/GoogleEditionRomProject</string>
+    <string name="no_irc">GerpIRC App no encontrada.</string>
+    <string name="center_summary"><b>GerpCenter</b> proporciona herramientas e información para ayudarte a mejorar tu experiencia con GERP ROM. Puedes actualizar automáticamente a la versión más reciente de nuestra ROM con <b>GerpOTA</b> y eliminar aplicaciones no deseadas del sistema con <b>GerpSizer</b></string>
 </resources>
