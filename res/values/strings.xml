@@ -110,19 +110,19 @@
     <string name="sizer_message_filesuccess">Created profile.</string>
     <string name="sizer_message_filefail">Failed to create profile.</string>
     <string name="sizer_message_noselect">Nothing selected.</string>
-    <string name="ota_title">SlimOTA</string>
+    <string name="ota_title">GerpOTA</string>
 
     <!-- About -->
-    <string name="aboutslim_title">SlimRoms</string>
+    <string name="aboutslim_title">GERP ROM Project</string>
     <string name="devs">Developer</string>
-    <string name="slim_website_title">Slim Website</string>
-    <string name="slim_website_summary">www.slimroms.net\nFind all latest Slim news here</string>
-    <string name="slim_irc_title">SlimIRC</string>
+    <string name="slim_website_title">Gerp Website</string>
+    <string name="slim_website_summary">www.butter.uni.me\nFind all latest Slim news here</string>
+    <string name="slim_irc_title">GerpIRC</string>
     <string name="slim_irc_summary">Join our IRC channel!\nChat with the Slim Team and other users</string>
     <string name="slim_donate_title">Donate</string>
-    <string name="slim_donate_summary">Donate to Team SlimRoms</string>
+    <string name="slim_donate_summary">Donate to Team Gerp ROM</string>
     <string name="slim_source_title">Slim Source</string>
-    <string name="slim_source_summary">SlimRoms are fully open source.\nSource at github.com/SlimRoms</string>
+    <string name="slim_source_summary">GERP ROM are fully open source.\nSource at github.com/GoogleEditionRomProject</string>
     <string name="no_irc">SlimIRC App not found.</string>
     <string name="center_summary"><b>SlimCenter</b> provides tools &amp; information to help make your experience with SlimRoms even better. Upgrade automatically to the newest version of our ROM with <b>SlimOTA</b> and remove unwanted system apps with <b>SlimSizer</b></string>
     <string name="slim_bugreport">Bugreport</string>
