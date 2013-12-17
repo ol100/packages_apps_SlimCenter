@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <string name="app_name">SlimCenter</string>
+    <string name="app_name">CentroSlim</string>
     <string name="menu_settings">Ajustes</string>
     <string name="device_title">Dispositivo</string>
     <string name="device_name_title">Nombre:</string>
