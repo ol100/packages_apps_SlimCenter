@@ -82,11 +82,11 @@ public class AboutSlim extends Fragment{
         @Override
         public void onClick(View v) {
             if (v == website) {
-                launchUrl("http://slimroms.net/");
+                launchUrl("http://htcmania.com/");
             } else if (v == source) {
-                launchUrl("http://github.com/SlimRoms");
+                launchUrl("http://github.com/GoogleEditionRomProject");
             } else if (v == donate) {
-                launchUrl("http://www.slimroms.net/index.php/donations");
+                launchUrl("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HF7PUV83HJY74");
             } else if (v == irc) {
                 if (isCallable(IRC_INTENT)){
                     startActivity(IRC_INTENT);
