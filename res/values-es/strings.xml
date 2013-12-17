@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <string name="menu_settings">Ajustes</string>
+    <string name="menu_settings">Ajustes gerp</string>
     <string name="device_title">Dispositivo</string>
     <string name="device_name_title">Nombre:</string>
     <string name="codename_title">Alias:</string>
